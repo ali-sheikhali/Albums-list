@@ -11,6 +11,7 @@ function UsersListItem({ user }) {
   const handleClick = () => {
     doRemoveUser(user);
   };
+  // this is a test
 
   const header = (
     <>
