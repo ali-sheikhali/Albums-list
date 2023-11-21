@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Jana Reichert III",
+      "id": 5
+    },
+    {
+      "name": "Wilson Smitham",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Soft Bike",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Bronze Hat",
+      "id": 12
+    }
+  ],
+  "photos": []
+}
