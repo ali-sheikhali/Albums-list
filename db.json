@@ -13,8 +13,8 @@
       "id": 5
     },
     {
-      "name": "Wilson Smitham",
-      "id": 6
+      "name": "Guadalupe Gorczany",
+      "id": 7
     }
   ],
   "albums": [
@@ -32,6 +32,36 @@
       "userId": 1,
       "title": "Luxurious Bronze Hat",
       "id": 12
+    },
+    {
+      "userId": 7,
+      "title": "Incredible Frozen Keyboard",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Cotton Chair",
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "title": "Elegant Metal Ball",
+      "id": 21
+    },
+    {
+      "userId": 5,
+      "title": "Intelligent Rubber Chips",
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "title": "Handmade Soft Towels",
+      "id": 24
+    },
+    {
+      "userId": 7,
+      "title": "Handcrafted Metal Chips",
+      "id": 25
     }
   ],
   "photos": []
